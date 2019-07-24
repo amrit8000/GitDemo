@@ -1,1 +1,2 @@
 This is file 3. It is modified in git demo release 1.
+File 3 again modified in feature/demo_1 branch.
