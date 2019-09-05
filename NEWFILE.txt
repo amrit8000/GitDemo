@@ -1,1 +1,2 @@
 This is a new file. It is created to test git revert funcitonality.
+This line is for second commit.
